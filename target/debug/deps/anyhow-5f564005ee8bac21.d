@@ -1,0 +1,15 @@
+D:\Normal\projects\persional\package_rs\target\debug\deps\anyhow-5f564005ee8bac21.rmeta: D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\lib.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\backtrace.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\chain.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\context.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\ensure.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\error.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\fmt.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\kind.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\macros.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\ptr.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\wrapper.rs
+
+D:\Normal\projects\persional\package_rs\target\debug\deps\anyhow-5f564005ee8bac21.d: D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\lib.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\backtrace.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\chain.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\context.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\ensure.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\error.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\fmt.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\kind.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\macros.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\ptr.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\wrapper.rs
+
+D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\lib.rs:
+D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\backtrace.rs:
+D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\chain.rs:
+D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\context.rs:
+D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\ensure.rs:
+D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\error.rs:
+D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\fmt.rs:
+D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\kind.rs:
+D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\macros.rs:
+D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\ptr.rs:
+D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anyhow-1.0.72\src\wrapper.rs:
