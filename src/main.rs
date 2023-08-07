@@ -1,13 +1,11 @@
-pub mod commands;
-pub mod util;
+use cargo_dist::cli::cli;
 
-mod cli;
-mod config;
+/**
+ * 简化 RustBuild 构建流程以及打包过程
+ * 作者：LuuuXXX
+*/
 
 fn main() {
-    let res = cli::main();
-    match res {
-        Err(e) => panic!("{:?}", e.error),
-        Ok(()) => {}
-    }
+    // This is the entry point for the application
+    cli::main();
 }
