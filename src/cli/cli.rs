@@ -1,12 +1,9 @@
-use crate::Config;
 use super::commands;
 
 pub use crate::util::*;
 
 pub fn main() {
     let args = cli().get_matches();
-
-    let mut config = Config::default();
     
     let (cmd, subcommand_args) = match args.subcommand() {
         Some((cmd, args)) => (cmd, args),
@@ -14,7 +11,7 @@ pub fn main() {
     };
     let exec = commands::builtin_exec(cmd);
     match exec {
-        Some(runner) => runner(&mut config, subcommand_args),
+        Some(runner) => runner(subcommand_args),
         None => todo!(),
     }
 }

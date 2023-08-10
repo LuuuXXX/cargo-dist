@@ -1,0 +1,11 @@
+D:\Normal\projects\persional\cargo-dist\target\debug\deps\textwrap-0b7aa6aab07028c6.rmeta: D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\lib.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\indentation.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\word_separators.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\word_splitters.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\wrap_algorithms.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\line_ending.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\core.rs
+
+D:\Normal\projects\persional\cargo-dist\target\debug\deps\textwrap-0b7aa6aab07028c6.d: D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\lib.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\indentation.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\word_separators.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\word_splitters.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\wrap_algorithms.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\line_ending.rs D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\core.rs
+
+D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\lib.rs:
+D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\indentation.rs:
+D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\word_separators.rs:
+D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\word_splitters.rs:
+D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\wrap_algorithms.rs:
+D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\line_ending.rs:
+D:\LuuuX\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.16.0\src\core.rs:
