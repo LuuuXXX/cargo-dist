@@ -136,7 +136,7 @@ pub fn default_triple() -> String {
     host
 }
 
-fn resolve_crate(krate: &String) -> Result<(String, String), anyhow::Error> {
+fn _resolve_crate(krate: &String) -> Result<(String, String), anyhow::Error> {
     let mut name = String::new();
     let mut version = String::new();
 
